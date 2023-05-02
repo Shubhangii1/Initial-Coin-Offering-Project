@@ -1,1 +1,1 @@
-# Initial-Coin-Offering-Project
+An Initial Coin Offering (ICO) is a fundraising mechanism used by blockchain-based startups to raise capital by issuing a new cryptocurrency or token. The process involves selling a percentage of the newly issued tokens to investors in exchange for other cryptocurrencies, such as Bitcoin or Ethereum, or fiat currencies.
